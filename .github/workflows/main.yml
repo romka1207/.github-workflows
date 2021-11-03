@@ -28,4 +28,3 @@ jobs:
     YC_IMG_REGISTRY_ID: crpfeq9hppcecnesc2na
     # Name for your Docker image
     DOCKER_IMG_NAME: Laba1
-    
